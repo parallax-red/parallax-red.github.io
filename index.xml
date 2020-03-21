@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parallax Red Team Solutions</title>
+    <link>https://parallax.red/</link>
+    <description>Recent content on Parallax Red Team Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://parallax.red/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://parallax.red/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parallax.red/about/</guid>
+      <description>Hack the planet.</description>
+    </item>
+    
+    <item>
+      <title>Coming Soon</title>
+      <link>https://parallax.red/soon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parallax.red/soon/</guid>
+      <description>Coming soon! Until then, Hack the planet.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://parallax.red/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parallax.red/contact/</guid>
+      <description>Hack the planet.</description>
+    </item>
+    
+    <item>
+      <title>Offensive Security</title>
+      <link>https://parallax.red/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parallax.red/consulting/</guid>
+      <description>Coming soon! Until then, Hack the planet.</description>
+    </item>
+    
+    <item>
+      <title>Parallax Cloak</title>
+      <link>https://parallax.red/cloak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parallax.red/cloak/</guid>
+      <description>Coming soon! Until then, Hack the planet.</description>
+    </item>
+    
+    <item>
+      <title>Parallax Control</title>
+      <link>https://parallax.red/control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parallax.red/control/</guid>
+      <description>Coming soon! Until then, Hack the planet.</description>
+    </item>
+    
+    <item>
+      <title>Parallax Orc</title>
+      <link>https://parallax.red/orc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parallax.red/orc/</guid>
+      <description>Hack the planet.</description>
+    </item>
+    
+  </channel>
+</rss>
