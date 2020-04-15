@@ -1,3 +1,2 @@
-# parallax-red.github.io
-Parallax Red
+# Parallax Red Team Solutions
 https://parallax.red
