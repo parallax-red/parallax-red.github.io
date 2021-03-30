@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parallax Red Team Solutions</title>
     <link>https://parallax.red/</link>
     <description>Recent content on Parallax Red Team Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://parallax.red/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://parallax.red/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
       <link>https://parallax.red/about/</link>
@@ -34,17 +30,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://parallax.red/contact/</guid>
-      <description>Hack the planet.</description>
+      <description>For more information on Parallax please reach out to our sales team: sales@parallax.red.</description>
     </item>
     
     <item>
-      <title>Offensive Security</title>
+      <title>Offensive Security Services</title>
       <link>https://parallax.red/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://parallax.red/consulting/</guid>
-      <description>Parallax Security provides a variety of offensive security solutions for your organization.
-Red Team Operations Application Security Assessments (Web, Native) Reverse Engineering (Malware Analysis, Vulnerability Research) Penetration Testing  Please reach out to our consulting team for more information: consulting@parallax.red</description>
+      <description>  Parallax Security provides a variety of bespoke offensive security solutions for your organization. Red Team Operations (Objective-based Testing) Application Security Assessments (Web, Native, Mobile) Penetration Testing (External, Internal) Reverse Engineering (Malware Analysis, Vulnerability Research) --  Let us know what you need to become more secure and we will help you.
+Contact our Consulting Team</description>
     </item>
     
     <item>
@@ -53,7 +49,8 @@ Red Team Operations Application Security Assessments (Web, Native) Reverse Engin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://parallax.red/cloak/</guid>
-      <description>Coming soon! Until then, Hack the planet.</description>
+      <description>Parallax Cloak simplifies deployment of resilient command and control infrastructure for red team operations.
+With Cloak, you can quickly deploy traffic proxy servers to help hide critical infrastructure from the blue team, allowing you to stay online longer when servers are burned. No need to build redundant command and control servers, simply point and click your way to multiple redirectors, hops or reverse proxies. Parallax Cloak supports the following:</description>
     </item>
     
     <item>
@@ -62,7 +59,7 @@ Red Team Operations Application Security Assessments (Web, Native) Reverse Engin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://parallax.red/control/</guid>
-      <description>Coming soon! Until then, Hack the planet.</description>
+      <description>Parallax Control allows you to manage your command and control infrastructure through the Parallax dashboard. New pre-configured servers can be deployed, stopped and destroyed within minutes. No need to worry about compiling from source or trying to figure out why Terraform is failing. Need a new instance of Metasploit? Just point and click. A new SILENTTRINITY team server for your operation? Just point and click. Parallax Control supports the following command and control servers:</description>
     </item>
     
     <item>
@@ -71,7 +68,8 @@ Red Team Operations Application Security Assessments (Web, Native) Reverse Engin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://parallax.red/orc/</guid>
-      <description>Hack the planet.</description>
+      <description>  Parallax Orc allows you to easily manage your red team operations all in one dashboard. With Orc, you can manage infrastructure, track operation findings and spending all and much more.
+Contact our Sales Team</description>
     </item>
     
   </channel>
